@@ -1,0 +1,212 @@
+python train.py config/train_zelda.py --device=cuda --compile=False --eval_iters=20 --log_interval=1 --block_size=64 --batch_size=12 --n_layer=4 --n_head=4 --n_embd=128 --max_iters=2000 --lr_decay_iters=2000 --dropout=0.0
+python sample.py --out_dir=out-zelda --device=cuda --start="Bomb"
+
+6000 iterations breathe of wild text dump
+C:\Users\ellen\Desktop\ZeldaGPT>python sample.py --out_dir=out-zelda --device=cuda --start="wife"
+Overriding: out_dir = out-zelda
+Overriding: device = cuda
+Overriding: start = wife
+number of parameters: 0.89M
+Loading meta from data\zgpt\meta.pkl...
+wife with monster by racks.
+                A regrousar sound with bananana waste
+an ingredient durable.
+Highlands Ganon to form an ever head on
+the day to call, I wonder. I mean stand
+us the mountain too.
+                पMipha. That's how in your pick me
+and advise for that elder...
+Are you for those landstorm?!
+                ؀So you don't sell rest would all's
+hard be approaches.
+
+The lightning out this rod the long friend.
+Can Lakes was a born about the day.
+                ଄I heard creaction and the spirit. I believe
+fute in the sky time to time..
+---------------
+wife them rare way to be up
+to rest of it, but it would way to discound
+to say, but it was a pretty to tell you.
+You changed whatever you to add down
+the can't misster at a handle bow.
+
+It's that the better bading some who
+can fully the thieves here.
+It's open locations walked.
+
+He's a voices location of horses that will
+that I would say in a true serve!
+                So then?!
+                Is made leave right the Divine Beast!
+I wonder if you could have an eye who gets
+about in a bed off them.
+                Could it a travel through
+---------------
+wife of the best fine her back.
+They say the Divine Beast Vah Ruta.
+Incredoon, it will also the fire for longer
+business are an importance, surely.
+                That's really bad.
+                Stop of all the use the Gerudo...
+If you hagh, you know, and we no have it
+for you are kind of Hylian region!
+So he running the stamped in Place is
+suppose that technology to any other.
+                Sand-seal Champy really has to see but it.
+That's the of traveling of the friends and
+princess when for money where you're
+a suspicious he was fo
+---------------
+wife spirit and important
+and come by all with talking about. It won't
+find into carry, but what do it making
+at a later sell a while.
+All night... It's a matter home work any the
+proper of Naydra. I have right now...
+P*akeeeeeast for treasure!
+                ऀAhh... I don't know a sing matter...
+                My man... If you have seen.
+                I've true in the only way for simply.
+
+
+First to the Gerudo Town, the ice is a fear
+suppose power the sisters in sheer
+beautiful Ganon... They way too look, you
+are anything good or as mu
+---------------
+wife, here to rescue run for me?
+I've believe that are by hard to me!
+                That's all the wild to the whole stay!
+                Good-bye!
+                Run ever direction!
+                Have you really to helpistering else a
+cold for me?
+                Even if you have any up and out!
+                I'll take 'em of it...
+                Oh, my just rupees the sad! How's that
+what to sell thing...
+That's even much...
+I'm changing why not!
+                All of time visit where you stuff,
+then "village, yeah?
+                Looked Rupee
+                What's weapon that?
+                &#x2;ˍShopTradePrice rupees!
+                Well, thank
+---------------
+wife in the day!
+                Sid, I know about that land on I say...
+                Bow...   What was a spack!
+                How's the expected...
+                Berrry.
+                Hey!
+                I wonder if was a properly live it! I'm
+to just time for my life on hear discate
+meansery to get the secret of when you
+light him.
+                Can't you.
+                If you want to show me to sing up!
+                I've been the song...
+
+
+؁Now, though. Mr...
+
+...
+                &#x2;ؓHow then? You got_Truly have?
+
+
+It was rought and seem to end to introduce,
+but I don't know ya kind on!  Heart on, listen and cought
+---------------
+wife is trees to come to be used to precious of
+the geby!
+                ࠀWhoa! So way, those are all this doctor
+the blade? Sarqso...is hold be working
+a real after on the considers of my
+sturdy orames.
+If you had say it, you sure.
+
+Actually, the west offer you will be the
+road.
+
+I don't keep to thing.
+
+Linky at the saved the that memory, go on
+journey.
+                Well, but that we're taking off flower
+the place with eventures on the time of
+Kakarikous for a bunch.
+                Pack Shield... I wonder what that blade!
+                ᣍFangs the
+---------------
+wife some of there.
+OK, but here's be a good tomorrow me.Ϫϫ
+                Hey, hey!
+                Well on that be carefully stay.
+
+
+I don't forget me but the wild before.
+Sure if you are picture to atight on
+my bed planning horses...
+
+No, then I was there anything else
+to see of give it!
+
+And for the watever, but there wonder
+the time flying for the chang of
+a will about farth of this...
+                ĉMy teacher's this an odderstoring...
+
+
+ċI can talk after all!
+
+But get the fresh the freed me to people
+business!
+
+Just long time on h
+---------------
+wife could there.
+That's want to see me in this
+can seals for suspering a way.
+Load live me some to make submor.
+                Core it's save times to home.
+                ÍOh?
+                ໍPhew... I guess in the Guardians that,
+you know were have a standing the sign
+power.
+                I wonder warn flag all of boly present.
+
+Oh, let's have to stay keep some me.
+                I'm always bound...
+
+
+Why need to buy the HANT
+say thing, a while carrot...
+
+It's out head asked the whose and things
+work about this clothing and away...
+
+
+In the leviat good you ca
+---------------
+wife
+themselvers things the stories. If you will
+prove the nice in now, yeah?
+
+                ଀I will not go away... I can't tell advice.
+I'll be what... I'm happy taking this happy
+you think to the reach the domain!
+                I thought I have been a lacky of normal...
+                ܀Is just place intense to sell. I can't like
+that weapon to know the horrike about
+I too care out for and considers...
+
+્You fine out own the last of the tree solving you
+for a lost much...
+
+ऀI wonder &amp;t;"Shop_That in hot...
+
+I'm sure the popped...
+
+---------------
